@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"command": "flutter run",
+			"label": "Run TravelMate",
+			"problemMatcher": [],
+			"type": "shell"
+		}
+	]
+}
